@@ -1,3 +1,3 @@
 ### Butonla Çalışan Ledli Devre
-#Özellikleri
+***Özellikleri***
 - deneme
