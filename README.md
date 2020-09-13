@@ -1,4 +1,5 @@
 ### Butonla Çalışan Ledli Devre
+***ÖZELLİKLERİ***
 - 2 Farklı Buton ile çalışan bu devre ile;
 - Kendi şifreleme sistemlerinizi yapabilirsiniz.
 - Farklı trafik ışığı cadde ışığı vb. çalışmalarınızı biraz daha geliştirerek yapabilirsiniz.
