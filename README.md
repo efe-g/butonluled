@@ -10,4 +10,4 @@
 # DEVRE ŞEMASI
 ![](https://github.com/efe-g/butonluled/blob/master/butonluleddevre.png)
 # İNCELEME VİDEOSU
-![](https://www.youtube.com/watch?v=ZA7q95XnoO4&feature=youtu.be)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
